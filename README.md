@@ -1,5 +1,6 @@
-<h1>Link in Bio - Projeto</h1>
+<h1>Link in Bio</h1>
 Este é um projeto para criar uma página de link in bio, que permite aos usuários do Instagram e outras redes sociais adicionar vários links em um único local. Com este projeto, os usuários podem adicionar links para seus sites, blogs, portfólios e outras redes sociais em uma única página.
+</br> 
 Para acessar o projeto, clique <a href="https://github.com/seu-usuario/nome-do-repositorio">aqui</a>.
 
 <h2>Instalação</h2>
